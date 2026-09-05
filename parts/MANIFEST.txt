@@ -1,0 +1,6 @@
+# MIT-BIH GitHub-safe zip shards
+# Reassemble: cat mitdb-1.0.0.zip.part* > mitdb-1.0.0.zip && unzip mitdb-1.0.0.zip
+# chunk_size=40M  count=2  max_part_bytes=41943040
+# created=2026-09-05T09:48:57Z
+mitdb-1.0.0.zip.part000  41943040  103639c8d855cacdf80d6834e4887db4f58832a0502ab184c342f0896a4d1f26
+mitdb-1.0.0.zip.part001  35087280  284cde533ff17c3082dbfcd8458b951779f4be95f712d8c589396f155eef9c6d
