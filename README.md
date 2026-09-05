@@ -27,7 +27,7 @@
 - **Records**: **48** half-hour excerpts from **47** subjects (`RECORDS` list)
 - **Sampling**: 360 Hz per channel, 11-bit over a 10 mV range
 - **Annotations**: cardiologist-reconciled beat labels (~110,000 annotations)
-- **Archive size**: `mitdb-1.0.0.zip` ≈ **77 MiB** — under GitHub’s 100 MiB limit (no sharding required)
+- **Archive size**: `mitdb-1.0.0.zip` ≈ **74 MiB** — stored as GitHub-safe shards under `parts/` (see `setup.sh`)
 - **Citation**: Moody & Mark, IEEE Eng. Med. Biol. 2001 (+ PhysioNet citation)
 
 ## Table of contents
